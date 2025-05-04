@@ -1,0 +1,17 @@
+{
+	"frame": {
+		"version": 1,
+		"name": "Solitaire",
+		"icon_url": "https://eleven-feet-ask.loca.lt/api/preview-image",
+		"home_url": "https://eleven-feet-ask.loca.lt/solitaire",
+		"splash_image_url": "https://eleven-feet-ask.loca.lt/api/preview-image",
+		"subtitle": "Play Solitaire",
+		"description": "Play classic Klondike Solitaire directly in your Farcaster client!",
+		"primaryCategory": "games",
+		"tags": ["cards", "solitaire", "board game"],
+		"heroImageUrl": "https://eleven-feet-ask.loca.lt/api/preview-image",
+		"ogTitle": "Solitaire",
+		"ogDescription": "Play classic Klondike Solitaire directly in your Farcaster client!",
+		"ogImageUrl": "https://eleven-feet-ask.loca.lt/api/preview-image"
+	}
+}
